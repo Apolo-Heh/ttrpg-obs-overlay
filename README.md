@@ -42,7 +42,7 @@ Uma ferramenta simples para exibir fichas de personagens de **RPGs de mesa** dir
 ### 1. Clone ou baixe o repositório
 
 ```bash
-git clone https://github.com/Chrb09/ttrpg-obs-overlay.git
+git clone https://github.com/Apolo-Heh/ttrpg-obs-overlay.git
 cd ttrpg-obs-overlay
 ```
 
